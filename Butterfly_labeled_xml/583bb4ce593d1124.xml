@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Butterfly_unlabeled</folder>
+	<filename>583bb4ce593d1124.jpg</filename>
+	<path>/Users/xinyipei/Desktop/Butterfly_unlabeled/583bb4ce593d1124.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Butterfly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>132</ymin>
+			<xmax>950</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>
